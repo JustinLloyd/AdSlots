@@ -1,0 +1,16 @@
+To Do By	To Do Item
+			Verify player has entered name & email address
+			Extract email name from email address
+			Send audit log with email
+			Bump the game to a new URL after 'n' seconds after GameOver
+			Go to game over 'n' seconds after player runs out of money
+			Make reels spin more realistically
+?			Set payout and pot drop tables to be "fun" for player
+			Randomise pot levels at beginning of each game
+			Add a button "Play It Again" when Game Over occurs
+			Make LED's flash correctly when you win
+			Add error handler on media download
+			Add media & source URL tampering checks
+			Make buttons act tri-state
+			Add progress indicator for downloading of media
+			Automatically cash-out player when they run out of money

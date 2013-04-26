@@ -1,0 +1,20 @@
+Wild		Wild		Wild		1,000 or 5,000	 0.000025
+Purple 7	Purple 7	Purple 7	200		 9.99000999001
+Green 7		Green 7		Green 7		200		 9.99000999001
+Red 7		Red 7		Red 7		200		 9.99000999001
+Blue 7		Blue 7		Blue 7		200		 9.99000999001
+Colour 7	Colour 7	Colour 7	60		 2.997002997003
+Star		Star		Star		40		 1.998001998002
+Bar 3		Bar 3		Bar 3		30		 1.498501498501
+Bar 2		Bar 2		Bar 2		20		 0.999000999001
+Wild		Wild		----		20		 0.999000999001
+Bar 1		Bar 1		Bar 1		10		 0.4995004995005
+Cherry		Cherry		Cherry		10		 0.4995004995005
+Cherry		Cherry		----		5		 0.2497502497502
+Bar 1		Bar 1		Bar 2		5		 0.04162504162504
+Bar 1		Bar 1		Bar 3		5		 0.04162504162504
+Bar 2		Bar 2		Bar 1		5		 0.04162504162504
+Bar 2		Bar 2		Bar 3		5		 0.04162504162504
+Bar 3		Bar 3		Bar 1		5		 0.04162504162504
+Bar 3		Bar 3		Bar 2		5		 0.04162504162504
+Cherry		----		----		2		 0.0999000999001

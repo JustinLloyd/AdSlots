@@ -1,12 +1,11 @@
-AdSlots
-=======
+* Welcome
+Thanks for downloading AdSlots Java Slot Machine.
 
-Thanks for your interest in AdSlots Java Slot Machine. This project is now hosted at
- https://bitbucket.org/JustinLloyd/adslots
+Visit https://bitbucket.org/JustinLloyd/adslots/overview for 
+more information and to download the latest version.
 
 
-License
-====================
+* License
                       DO WHATEVER PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
@@ -21,8 +20,7 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-====================
+* About
 A 3-reel slot machine originally written sometime around 1996. There are a
 number of different skins available for various clients.
 
@@ -36,13 +34,11 @@ for a fixed period of time or the next video frame. If they don't appear to
 spin in your browser, it's probably because they are spinning too fast.
 
     
-Pre-requisites
-====================
+* Pre-requisites
 1. Java compiler
 
 You should be able to just drag one of the HTML files on to your browser window
 and everything should magically work.
 
-Support
-====================
+* Support
 Absolutely none provided.
